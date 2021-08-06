@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/64804972/128540248-3877ce32-d6d7-40bf-85ad-c4a6f85a9a08.jpg)
+
 ### Selam 👋
 
 Ben Ismail Filipov Danimarka da yaşıyorum, alanım oyun geliştirme En sevdiğim diller GDScript, Python, C#, şu anda Godot ile oyunlar ve yararlı bazı sistemler geliştirip yayınlıyorum.
