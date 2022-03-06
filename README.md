@@ -5,6 +5,8 @@ Ben Ismail Filipov Danimarka da yaşıyorum, alanım oyun geliştirme. Şu anda 
 ## Özel projelerim için
 https://radome-games.itch.io ve https://play.google.com/store/apps/dev?id=8956334469457565770
 
+## Patreon
+https://www.patreon.com/user/membership
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailgamedev&show_icons=true&theme=radical)
 
