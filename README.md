@@ -1,6 +1,3 @@
-### Selam 👋
-
-Şu anda Steam de yayınlayacağımız özel bir Multiplayer oyun geliştiriyoruz. Takipte kalın :=)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailgamedev&show_icons=true&theme=radical)
 
